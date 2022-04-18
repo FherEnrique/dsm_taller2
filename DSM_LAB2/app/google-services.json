@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "903006999290",
+    "project_id": "dsm-lab2",
+    "storage_bucket": "dsm-lab2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:903006999290:android:1aeb2219f0b29567b82f43",
+        "android_client_info": {
+          "package_name": "com.test.dsm_lab2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "903006999290-pen9e58h5gbbr4lv2or7eps2vhpapfev.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkfNlV6_I6OUTIbjT1lwOTlQsn2p-20QA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "903006999290-pen9e58h5gbbr4lv2or7eps2vhpapfev.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

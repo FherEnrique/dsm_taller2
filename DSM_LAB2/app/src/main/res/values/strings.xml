@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">DSM_LAB2</string>
+    <string name="splash_screen_logo_descriptor">Spash Screen Logo</string>
+    <string name="menu_message_text">Escoge del menú lo que desees:</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="consumable_name_text">Nombre del plato</string>
+    <string name="add_shopping_text">Añadir al carrito</string>
+    <string name="cart_text">Producto agregado al carrito</string>
+    <string name="buy_text">Comprar</string>
+    <string name="remove_item_text">Remover elemento</string>
+    <string name="remove_item_cart">Producto removido</string>
+    <string name="available_text">Disponible</string>
+    <string name="price_default_text">$10.0</string>
+    <string name="default_shop_price_text">$0.00</string>
+    <string name="buy_default_text">Compra hecha: $10.50</string>
+    <string name="history_text">Historial</string>
+</resources>
